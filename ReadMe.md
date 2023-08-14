@@ -22,6 +22,8 @@ Ao seguir essas etapas, você terá acesso completo ao seu histórico de streami
    - Clique em "Solicitar" na seção correspondente ao histórico de streaming do ano passado para o histórico simplificado.
    - Clique em "Solicitar" na seção correspondente ao histórico ampliado de streamings para obter informações detalhadas desde o início da sua conta.
 
+![Obter Dados](images/01-ObterDados.png)
+
 ### 4. **Aguarde o E-mail de Confirmação**
    - Após solicitar os dados, o Spotify enviará um e-mail com um link para baixar seu pacote de dados. A preparação dos dados pode levar algum tempo.
    - Se você não encontrar o e-mail, verifique a pasta de spam.
@@ -35,8 +37,6 @@ Ao seguir essas etapas, você terá acesso completo ao seu histórico de streami
    - Extraia o arquivo ZIP para acessar os arquivos JSON, que contêm seu histórico de streaming simplificado e ampliado.
 
 Ao seguir essas etapas, você terá acesso completo ao seu histórico de streaming do Spotify, tanto simplificado quanto ampliado, permitindo uma análise profunda dos seus hábitos de escuta e preferências musicais.
-
-![Obter Dados](images/01-ObterDados.png)
 
 ## Utilizando a API do Spotify para Enriquecer os Dados
 
