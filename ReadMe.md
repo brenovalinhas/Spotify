@@ -54,6 +54,7 @@ Este repositório é projetado para enriquecer e tratar seus dados do Spotify pa
    - Execute todas as células para buscar os dados da API do Spotify e enriquecer os dados.
    - Os dados processados serão salvos na pasta `Spotify Data/processed`.
    - ⚠️ Nesta etapa você já deve ter um App criado para usar a API do Spotify. Veja abaixo como fazer isso.
+   - ⚠️ Você também deve instalar as livrarias python contidas nos [`requisitos`](requirements.txt)
 
 ### 3. **Trate os Dados para o Power BI**
    - Abra o notebook [`02- Tratar Dados pro Power BI.ipynb`](02-%20Tratar%20Dados%20pro%20Power%20BI.ipynb) na raiz do projeto.
