@@ -40,6 +40,30 @@ Ao seguir essas etapas, você terá acesso completo ao seu histórico de streami
 
 ---
 
+## Como Usar Este Repositório
+
+Este repositório é projetado para enriquecer e tratar seus dados do Spotify para análise. Aqui estão as etapas para usar este projeto:
+
+### 1. **Armazene Seus Dados**
+   - Após receber os dados do Spotify, você deve armazená-los nas seguintes pastas:
+     - Histórico Ampliado de Streaming: `Spotify Data/raw/StreamingHistory_Extended`
+     - Histórico Simplificado de Streaming: `Spotify Data/raw/MyDataSimple`
+
+### 2. **Use o Notebook para Obter Dados da API do Spotify**
+   - Abra o notebook [`01- Obter Dados da API Spotify.ipynb`](01-%20Obter%20Dados%20da%20API%20Spotify.ipynb) na raiz do projeto.
+   - Execute todas as células para buscar os dados da API do Spotify e enriquecer os dados.
+   - Os dados processados serão salvos na pasta `Spotify Data/processed`.
+   - ⚠️ Nesta etapa você já deve ter um App criado para usar a API do Spotify.
+
+### 3. **Trate os Dados para o Power BI**
+   - Abra o notebook [`02- Tratar Dados pro Power BI.ipynb`](02-%20Tratar%20Dados%20pro%20Power%20BI.ipynb) na raiz do projeto.
+   - Execute todas as células para fazer o tratamento dos dados e criar as tabelas dimensão e fato que serão usadas no Power BI.
+   - Essas informações serão salvas na pasta `Spotify Data/processed`.
+
+Esta seção fornece uma visão clara dos passos necessários para executar o projeto e preparar os dados para análise. Você pode ajustar os detalhes conforme necessário para se adequar à estrutura exata e aos requisitos do seu projeto.
+
+---
+
 ## Utilizando a API do Spotify para Enriquecer os Dados
 
 Ao extrair dados diretamente do Spotify, obtemos informações essenciais sobre o histórico de execução, como as faixas reproduzidas, os álbuns e os artistas. No entanto, esses dados, por si só, são relativamente limitados e não incluem elementos visuais, como imagens dos artistas e álbuns, nem métricas adicionais, como a popularidade da música.
