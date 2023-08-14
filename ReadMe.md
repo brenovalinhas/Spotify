@@ -3,6 +3,7 @@
 Ao seguir essas etapas, você terá acesso completo ao seu histórico de streaming do Spotify, tanto simplificado quanto ampliado, permitindo uma análise profunda dos seus hábitos de escuta e preferências musicais.
 
 ![Dashboard](images/00-Dashboard.png)
+[Acesse o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWI1Y2ViNTAtZTEyYS00YjcyLWJlMGEtMTdjNGM5NTYzOTBjIiwidCI6IjlmODI2N2NmLWU1YTYtNGEwYy1hNWFhLWQ2MWIwNTBhZTBjYyJ9)
 
 ## Solicitando e Baixando Seus Dados do Spotify
 
