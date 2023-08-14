@@ -1,0 +1,3 @@
+CLIENT_ID: {insira aqui}
+CLIENT_SECRET: {insira aqui}
+REDIRECT_URI: http://localhost:4202

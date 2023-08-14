@@ -94,9 +94,9 @@ Para interagir com a API do Spotify e acessar os diversos recursos e informaçõ
 
 4. **Defina os Redirect URIs**: Essa URL é usada durante o processo de autenticação e deve apontar para onde você deseja que os usuários sejam redirecionados após o login.
 
-5. **Anote o Client ID e Client Secret**: Após a criação do aplicativo, você verá o Client ID e o Client Secret. Estas são as credenciais que você usará para autenticar suas solicitações à API. Mantenha-as em um local seguro.
+5. **Anote o Client ID e Client Secret**: Após a criação do aplicativo, você verá o Client ID e o Client Secret. Estas são as credenciais que você usará para autenticar suas solicitações à API. Mantenha-as em um local seguro. 
 
-6. **Configurações Adicionais (Opcional)**: Dependendo das suas necessidades, você pode ajustar outras configurações, como permissões, países disponíveis, etc.
+6. **Salve suas credenciais no arquivo**: Salve no arquivo texto o cliente ID, Cliente Secrect e o RedirectURL [`Sua Credenciais`](SuasCredenciais.txt) Dependendo das suas necessidades, você pode ajustar outras configurações, como permissões, países disponíveis, etc.
 
 Com seu aplicativo criado, você está pronto para começar a explorar a API do Spotify e desenvolver recursos interessantes para seus usuários. Certifique-se de seguir as diretrizes e práticas recomendadas de uso da API para garantir uma experiência suave e conforme as políticas do Spotify.
 
