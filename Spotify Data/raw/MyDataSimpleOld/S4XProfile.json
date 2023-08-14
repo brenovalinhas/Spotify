@@ -1,0 +1,13 @@
+{
+  "account": {
+    "email": "breno-valinhas@hotmail.com",
+    "fullName": "BRENO VALINHAS"
+  },
+  "teams": [
+    {
+      "teamName": "Valinhas",
+      "accessLevel": "Admin",
+      "role": "Artist"
+    }
+  ]
+}
