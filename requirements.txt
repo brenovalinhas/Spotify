@@ -1,6 +1,0 @@
-requests
-pandas
-seaborn
-matplotlib
-unidecode
-numpy
