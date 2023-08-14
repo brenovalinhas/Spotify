@@ -61,6 +61,11 @@ Este repositório é projetado para enriquecer e tratar seus dados do Spotify pa
    - Execute todas as células para fazer o tratamento dos dados e criar as tabelas dimensão e fato que serão usadas no Power BI.
    - Essas informações serão salvas na pasta `Spotify Data/processed`.
 
+### 4. **Atualize o Power BI**
+   - Abra o arquivo [`Spotify Dashboard.pbix`](Spotify%20Dashboard.pbix) na raiz do projeto.
+   - Vá em tratamento de dados (Power Query) e altere o caminho/diretório da consulta PastaOut
+   - Clique em Fechar e Aplicar e Atualize o relatório
+
 Esta seção fornece uma visão clara dos passos necessários para executar o projeto e preparar os dados para análise. Você pode ajustar os detalhes conforme necessário para se adequar à estrutura exata e aos requisitos do seu projeto.
 
 ---
