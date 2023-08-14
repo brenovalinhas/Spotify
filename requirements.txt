@@ -1,0 +1,5 @@
+requests
+pandas
+seaborn
+matplotlib
+unidecode
