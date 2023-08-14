@@ -38,6 +38,8 @@ Ao seguir essas etapas, você terá acesso completo ao seu histórico de streami
 
 Ao seguir essas etapas, você terá acesso completo ao seu histórico de streaming do Spotify, tanto simplificado quanto ampliado, permitindo uma análise profunda dos seus hábitos de escuta e preferências musicais.
 
+---
+
 ## Utilizando a API do Spotify para Enriquecer os Dados
 
 Ao extrair dados diretamente do Spotify, obtemos informações essenciais sobre o histórico de execução, como as faixas reproduzidas, os álbuns e os artistas. No entanto, esses dados, por si só, são relativamente limitados e não incluem elementos visuais, como imagens dos artistas e álbuns, nem métricas adicionais, como a popularidade da música.
