@@ -1,3 +1,9 @@
+# Dashboard Power BI Spotify
+
+Ao seguir essas etapas, você terá acesso completo ao seu histórico de streaming do Spotify, tanto simplificado quanto ampliado, permitindo uma análise profunda dos seus hábitos de escuta e preferências musicais.
+
+![Dashboard](images/00-Dashboard.png)
+
 ## Solicitando e Baixando Seus Dados do Spotify
 
 ### 1. **Acesse a Página de Privacidade do Spotify**
@@ -29,7 +35,7 @@
 
 Ao seguir essas etapas, você terá acesso completo ao seu histórico de streaming do Spotify, tanto simplificado quanto ampliado, permitindo uma análise profunda dos seus hábitos de escuta e preferências musicais.
 
-![URL_DA_IMAGEM_AQUI]
+![Obter Dados](images/01-ObterDados.png)
 
 ## Utilizando a API do Spotify para Enriquecer os Dados
 
@@ -49,9 +55,7 @@ A criação de um aplicativo no Spotify Developer Dashboard é o primeiro passo 
 
 Em resumo, a utilização da API do Spotify, em combinação com a criação de um aplicativo, enriquece a análise dos dados do Spotify, transformando-a de uma simples revisão do histórico de execução em uma exploração visualmente rica e detalhada dos hábitos de escuta. Essa abordagem eleva a análise a um novo nível, permitindo insights mais profundos e uma apresentação mais envolvente dos dados.
 
-![URL_DA_IMAGEM_AQUI]
-
-## Criando um App
+### Criando um App
 
 Para interagir com a API do Spotify e acessar os diversos recursos e informações disponíveis, é necessário criar um aplicativo em sua conta de desenvolvedor no Spotify. Essa etapa é crucial, pois fornecerá as credenciais de autenticação necessárias para fazer solicitações à API. Veja como você pode criar seu próprio aplicativo:
 
@@ -69,6 +73,6 @@ Para interagir com a API do Spotify e acessar os diversos recursos e informaçõ
 
 Com seu aplicativo criado, você está pronto para começar a explorar a API do Spotify e desenvolver recursos interessantes para seus usuários. Certifique-se de seguir as diretrizes e práticas recomendadas de uso da API para garantir uma experiência suave e conforme as políticas do Spotify.
 
----
+![Criar Aplicativo](images/02-CreateApp.png)
 
-![URL_DA_IMAGEM_AQUI]
+---
